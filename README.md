@@ -1,4 +1,4 @@
-# Faces for COCO dataset
+# faces4coco dataset
 
 ![Example of faces for coco on a cropped 000000533816.jpg](./docs/faces-for-coco-example-000000533816.jpg)
 
@@ -11,7 +11,7 @@ Detecting faces in particular is useful, so we've created a dataset that adds fa
 
 ## Downloads
 
----
+|:---|:-----|------:|
 | **Faces for COCO** | A CSV for each image in the Train2017 and Val2017 datasets | [Download](https://drive.google.com/open?id=1ZN3bI8uik0d_xcCBY3WdokkSboTnurry) |
 | **COCO Annotations** | Faces for COCO plus people. Same JSON format as the original COCO set. | [Download](https://drive.google.com/open?id=19MBDKp4F2SJuI3xalyvY2CqZKRw7qUUe) |
 | **Darknet Annotations (CLIPPED)** | Same thing, but in darknet/YOLO format. See details below. | [Download](https://drive.google.com/open?id=1Ivw40CBIWp90uJ0uFj9KcHJF1Mibc2ap) |
